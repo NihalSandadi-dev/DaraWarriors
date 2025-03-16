@@ -1,0 +1,9 @@
+{
+    "hubId": "stock_price_fetcher",
+    "name": "Stock Price Fetcher",
+    "description": "Fetches the latest closing price from Alpha Vantage.",
+    "author": "Your Name",
+    "version": "1.0.0",
+    "entry": "handler.js",
+    "requiredParams": ["ticker"]
+}
