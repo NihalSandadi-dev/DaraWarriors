@@ -1,0 +1,8 @@
+Sample user input:
+In a post on Truth Social, Trump said his administration would impose a 200% tariff on alcoholic beverages from the EU unless it rescinds the 50% tariff the European government imposed Wednesday on US spirits.
+
+prompt 1:
+what are the stocks that could be impacted by this news below? give me top 5 stock symbols it may be affected. return these 5 symbols in a list without texts.
+
+prompt 2:
+Based on the input news and the stock data result, what’s the effect of the news on the stock change? generate a brief paragraph of interpretation.
